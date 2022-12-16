@@ -1,0 +1,15 @@
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.csproj.AssemblyReference.cache
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.GeneratedMSBuildEditorConfig.editorconfig
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.AssemblyInfoInputs.cache
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.AssemblyInfo.cs
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.csproj.CoreCompileInputs.cache
+C:\g_b_test\Task8\56\bin\Debug\net7.0\56.exe
+C:\g_b_test\Task8\56\bin\Debug\net7.0\56.deps.json
+C:\g_b_test\Task8\56\bin\Debug\net7.0\56.runtimeconfig.json
+C:\g_b_test\Task8\56\bin\Debug\net7.0\56.dll
+C:\g_b_test\Task8\56\bin\Debug\net7.0\56.pdb
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.dll
+C:\g_b_test\Task8\56\obj\Debug\net7.0\refint\56.dll
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.pdb
+C:\g_b_test\Task8\56\obj\Debug\net7.0\56.genruntimeconfig.cache
+C:\g_b_test\Task8\56\obj\Debug\net7.0\ref\56.dll
